@@ -68,7 +68,7 @@ I'm an Aspiring Penetration Tester, passionate about ethical hacking and learnin
 |:---:|
 | [![Udemy](https://img.shields.io/badge/Udemy-Learn%20Ethical%20Hacking-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://drive.google.com/file/d/1bKOfYke_JGtiX4BOmiQvX_m85wnFt7pv/view?usp=drive_link)
 | [![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1ZCZLPUwd6SI9WvRCmW_vGyvgskVPCnyj/view?usp=drive_link) 
-| [![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre%20Security%20Path-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://drive.google.com/file/d/1o1jmQOzTAMX8qneT51Q9HfortOBlQgqO/view?usp=drive_link) 
+| [![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre%20Security%20Path-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://drive.google.com/file/d/1xSbzzOhfj-qWqVLldDjF7Ulso5aNp5LK/view?usp=drive_link)
 | [![CompTIA](https://img.shields.io/badge/CompTIA-In%20Progress-CE0E2D?style=flat-square&logo=comptia&logoColor=white)](https://www.comptia.org/certifications)
 
 ### 🏫 Education & Mentoring
